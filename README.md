@@ -21,5 +21,8 @@ Link for the deployed api - https://sravanth-sentiment-analysis-api.hf.space
 ![image](https://user-images.githubusercontent.com/77894804/209323381-1fd72192-0c6c-48db-a8f5-ce2b68346af6.png)
 
 2. "/predict/{review}" to get the sentiment of the review entered.
+Example review - "I love this airline"
+![image](https://user-images.githubusercontent.com/77894804/209323485-99cc1603-7ff8-4135-b09b-ff4e423da198.png)
+
 
 
