@@ -16,4 +16,7 @@
 
 Link for the deployed api - https://sravanth-sentiment-analysis-api.hf.space
 
+### Steps to use this api
+1. Click to get get the home page
+2. "/predict/{review}" to get the sentiment of the review entered.
 
