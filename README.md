@@ -14,4 +14,6 @@
 3. Fastapi
 4. Docker & HuggingFace (Deployment)
 
+Link for the deployed api - https://sravanth-sentiment-analysis-api.hf.space
+
 
