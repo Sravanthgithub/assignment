@@ -27,6 +27,15 @@ Example review - "I love this airline"
 # Swagger UI
 ![image](https://user-images.githubusercontent.com/77894804/209323832-8944aa46-d216-4a47-b1a3-84c410491627.png)
 
+## Best Models after tuning
+1. Logistic Regression – {‘C’ : 1, ‘penalty’: : ‘l2”} Score – 91.85%
+2. Support Vector Classifier – {‘C’ : 0.1, ‘Kernel’ : ‘Linear’} Score – 91.38%
+3. Naïve Bayes – {‘alpha’ : 0.1} Score – 90.68%
+4. Random Forest – {‘criterion’ : ‘gini’ , ‘n_estimators’ : 300} Score – 89.95%
+5. Decision Tree – {‘criterion’ : ‘gini’,  ‘splitter’ :  ‘best’}  Score- 86.74%
+6. KNN – {‘n_estimators’ : 5} Score – 71.71%
+7. LSTM -  Score – 91%
+
 
 
 
