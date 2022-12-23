@@ -1,7 +1,7 @@
 # TrueFoundry coding assignment
 
->Built ML models for the problem statement.
->Built Recurrent neural network for the same problem statement to prove that I have knowledge on Deep Learning too. (With fine tuning)
+>1. Built ML models for the problem statement.
+>2. Built Recurrent neural network for the same problem statement to prove that I have knowledge on Deep Learning too. (With fine tuning)
 >Used OOPs Concepts.
 >Developed API Server using FastAPI.
 >Integrated Swagger Documentation.
