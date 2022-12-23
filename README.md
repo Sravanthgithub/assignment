@@ -24,5 +24,9 @@ Link for the deployed api - https://sravanth-sentiment-analysis-api.hf.space
 Example review - "I love this airline"
 ![image](https://user-images.githubusercontent.com/77894804/209323485-99cc1603-7ff8-4135-b09b-ff4e423da198.png)
 
+# Swagger UI
+![image](https://user-images.githubusercontent.com/77894804/209323832-8944aa46-d216-4a47-b1a3-84c410491627.png)
+
+
 
 
