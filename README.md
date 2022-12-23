@@ -8,4 +8,10 @@
 >7. Containerized using Docker and deployed it on HuggingFace Spaces. (Bonus).✅
 >8. Each and every point mentioned in assignment was completed.✅
 
+## Tech Stack used
+1. Tensorflow
+2. Scikit-Learn
+3. Fastapi
+4. Docker & HuggingFace (Deployment)
+
 
