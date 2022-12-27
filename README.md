@@ -1,4 +1,5 @@
-# TrueFoundry coding assignment - https://sravanth-sentiment-analysis-api.hf.space
+# TrueFoundry coding assignment - https://sravanth-sentiment-analysis-api.hf.space 
+## Deployment✅
 
 >1. Built ML models for the problem statement.✅
 >2. Built Recurrent neural network for the same problem statement to prove that I have knowledge on Deep Learning too. (With fine tuning).✅
