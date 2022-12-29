@@ -19,6 +19,7 @@ Link for the deployed api - https://sravanth-sentiment-analysis-api.hf.space
 
 ### Screen Recordings
 1. [Swagger UI](https://github.com/Sravanthgithub/assignment/blob/main/Truefoundry-submission-recording.mp4) 
+2. [Deployed API](https://sravanth-sentiment-analysis-api.hf.space/)
 
 ### Steps to use this api
 1. Click to get get the home page
