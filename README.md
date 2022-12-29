@@ -1,4 +1,4 @@
-# TrueFoundry coding assignment - https://sravanth-sentiment-analysis-api.hf.space 
+# [TrueFoundry coding assignment](https://sravanth-sentiment-analysis-api.hf.space)
 ## Deployment✅ 
 ## Did not use any pretrained models, completely developed from scracth. 
 >1. Built ML models for the problem statement.✅
